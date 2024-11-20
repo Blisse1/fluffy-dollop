@@ -19,7 +19,7 @@
 		"@astrojs/react": "^3.6.2",
 		"@astrojs/rss": "4.0.7",
 		"@astrojs/sitemap": "3.2.0",
-		"@astrojs/starlight": "^0.29.0",
+		"@astrojs/starlight": "^0.29.2",
 		"@astrojs/tailwind": "5.1.1",
 		"astro": "4.15.12",
 		"astro-expressive-code": "^0.37.0",
