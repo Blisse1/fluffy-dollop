@@ -30,6 +30,8 @@
         "src/site.config.ts"
       ]
     },
+    "esModuleInterop": true,
+    "noEmit": true,
     "jsx": "react-jsx",
     "jsxImportSource": "react"
   },
